@@ -33,7 +33,7 @@ neovim \
 "
 
 dotfiles_dir="$HOME/.dotfiles"                                         # dotfiles directory
-dotfiles_repo="https://github.com/aaronkjones/noobs-term-dotfiles.git" # dotfiles repo
+dotfiles_repo="https://github.com/elrrrrrrr/dotfiles.git" # dotfiles repo
 nvim_config="$HOME/.config/nvim/init.vim"                              # neovim config location
 platform="unknown"                                                     # default to unknown platform
 
